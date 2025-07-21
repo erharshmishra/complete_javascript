@@ -1,7 +1,6 @@
 # complete_javascript 
 
 ## 📦 Complete JavaScript Lecture Files
-
 This repository contains all the **JavaScript files** I created while learning and completing a full JavaScript course. Each file demonstrates key concepts, practice exercises, or mini-projects from the lecture series — crafted to be clean, beginner-friendly, and practical.
 
 ## 📁 What's Inside
@@ -34,7 +33,6 @@ This repository contains all the **JavaScript files** I created while learning a
 - 🧱 A foundation for building dynamic web apps
 
 ## 🧠 How to Use
-
 - git clone https://github.com/erharshmishra/complete-javascript-lecture-files.git
 - Open the .js files in your code editor
 - Test them using your browser’s console or link them to HTML files
